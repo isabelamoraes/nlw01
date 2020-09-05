@@ -44,8 +44,8 @@ $ cd omnistack11/server
 $ npm install
 
 # Create database
-$ npm knex:migrate
-$ npm knex:seed
+$ yarn knex:migrate
+$ yarn knex:seed
 
 # Run the application
 $ npm run dev
