@@ -37,7 +37,7 @@ To clone and run this application, place from your command line:
 # Clone this repository
 $ git clone https://github.com/isabelamoraes/nlw01.git nlw01
 
-# Go into the repository desired
+# Go into the repository
 $ cd omnistack11/server
 
 # Install dependencies
