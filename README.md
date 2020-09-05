@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="" alt="Ecoleta">
+    <img src="https://github.com/isabelamoraes/nlw01/blob/master/demo/logo.jpg?raw=true" alt="Ecoleta">
   <br>
   <br>
   ECOLETA
@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img alt="Web Application Demo" src="" width="70%">
-  <img alt="Mobile Application Demo" src="" width="23%">
+  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/nlw01/blob/master/demo/ecoleta.gif?raw=true" width="70%">
+  <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/nlw01/blob/master/demo/ecoleta_app.gif?raw=true" width="23%">
 </p>
 
 ## Features
@@ -60,6 +60,9 @@ $ npm install
 
 # Run the application
 $ npm start
+
+# For cache error
+$ npm cache clean --force
 ```
 
 ## Reference
