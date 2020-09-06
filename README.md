@@ -38,22 +38,22 @@ To clone and run this application, place from your command line:
 $ git clone https://github.com/isabelamoraes/nlw01.git nlw01
 
 # Go into the repository
-$ cd omnistack11/server
+$ cd nlw01/server
 
 # Install dependencies
 $ npm install
 
-# Create database
+# Create server database
 $ yarn knex:migrate
 $ yarn knex:seed
 
-# Run the application
+# Run the server application
 $ npm run dev
 
 # Go into the repository desired
-$ cd omnistack11/web
+$ cd nlw01/web
 # OR
-$ cd omnistack11/mobile
+$ cd nlw01/mobile
 
 # Install dependencies
 $ npm install
